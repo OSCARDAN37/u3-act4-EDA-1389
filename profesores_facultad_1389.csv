@@ -1,0 +1,7 @@
+﻿id_profesor,nombre,departamento,grado_academico,anos_antiguedad,materias_asignadas,alumnos_totales,salario_mensual,publicaciones_ano,tipo_contrato
+301,Dr. Ramirez,Matematicas,Doctorado,15,3,120,35000,2,Definitivo
+302,Mtra. Sanchez,Humanidades,Maestria,8,2,80,25000,1,Definitivo
+303,Dr. Flores,Ciencias,Doctorado,20,4,150,40000,4,Definitivo
+304,Mtro. Vargas,Ingenieria,Maestria,5,2,60,22000,0,Interino
+305,Dra. Mendoza,Ciencias,Doctorado,12,3,110,32000,3,Definitivo
+306,Mtro. Castro,Humanidades,Maestria,3,2,70,20000,1,Interino
